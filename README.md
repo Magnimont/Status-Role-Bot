@@ -32,10 +32,7 @@ Simply Just Click On the File and open with Browser
 
 ## Tutorial
 
-```sh
 https://www.youtube.com/watch?v=ZQ20Kl5su8M&t=1s
-```
-
 
 ## Authors
 
