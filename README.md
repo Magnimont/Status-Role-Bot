@@ -10,7 +10,7 @@
   </a>
 </p>
 
-> A Chatbot Robot For Discord Based On Brainshop Api!
+> A Discord Bot which Gives You A Role For Putting Custom Status!
 
 ### 🏠 [Homepage](https://mikuni.tech)
 
